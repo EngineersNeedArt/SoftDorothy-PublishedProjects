@@ -43,7 +43,7 @@ Serendipitously, AOL (America On-Line) had become a thing about that time and **
 <em>Casady & Greene rejected this splash screen.</em>
 </p>
 
-**Pararena 2.0** was to be another first for me — I was intending to write it in the C language rather than in Pascal (which all my other games had been written in). Once again my shareware game, **Glypha**, became my testing ground. I rewrote **Glypha** in C and "shipped" it before beginning my first *commercial* C application. And again, **Glypha** written in C was well received and **Pararena 2.0** would later ship with no problems that resulted from my haviung learned a new programming language.
+**Pararena 2.0** was to be another first for me — I was intending to write it in the C language rather than in Pascal (which all my other games had been written in). Once again my shareware game, **Glypha**, became my testing ground. I rewrote **Glypha** in C and "shipped" it before beginning my first *commercial* C application. And again, **Glypha** written in C was well received and **Pararena 2.0** would later ship with no problems that resulted from my having learned a new programming language.
 
 Some thing I added to hopefully give it more commercial-game gravitas was an "instant replay" that showed, TV-style, the seconds leading up to a scored goal. I also added several computer opponents that varied from novice to expert-level players. There were tournaments and awards you could try to attain within the game. And finally there was a rudimentary network option where two Macintoshes connected by a null-modem cable (and perhaps a bit of luck) could play **Pararena 2.0** head-to-head, human vs. human.
 
@@ -57,7 +57,7 @@ Despite all of the above though, **Pararena 2.0** never made even 10% of what **
 
 **More Glider** is not a programming project like the others on the disk image but is included more for completeness. When the floppy disk for **More Glider** shipped it contained a new house I had created — one I made intentionally difficult to give the better **Glider 4.0** players a run for their money. I also had tweaked a lot of the game artwork from **Glider 4.0** and included the alternate artwork in files that you could swap for the existing artwork files.
 
-Additionally, there were a number of "houses" (**Glider** levels) that users had created. Each of the individuals that had created the houses we shipped were asked for permission to ship them, were given a payout of some cash as I recall, and were able to include a "READ ME" where they describe their houses. Some of the creators I would contact again a year of so later when I was beginning the follow-on to **Glider 4.0**, **Glider PRO**. The "house" that shipped with **Glider PRO** would end up being a collaborative effort between myself and three other **Glider** fans.
+Additionally, there were a number of "houses" (**Glider** levels) that users had created. Each of the individuals that had created the houses we shipped were asked for permission to ship them, were given a payout of some cash as I recall, and were able to include a "READ ME" where they describe their houses. Some of the creators I would contact again a year or so later when I was beginning the follow-on to **Glider 4.0**, **Glider PRO**. The "house" that shipped with **Glider PRO** would end up being a collaborative effort between myself and three other **Glider** fans.
 
 ### Glider PRO:
 
@@ -79,7 +79,7 @@ With no "escape room" in **Glider PRO** (escaping the house being the goal in th
 
 This time too, rather than a separate level-editor application, I integrated editing directly into **Glider PRO**.
 
-As I mentioned earlier, in order to justify **Glider PRO** I asked a few "house authors" that had done really stellar work creating houses with **Glider 4.0** to help me on the house that ultimately shipped with **Glider PRO** (cllaed *Slumberland*). I blocked out a large amount of "level real estate" and Sean, Steve and Ward each took their slice and got busy creating rooms, puzzles, etc. I would periodically update them with a new beta of **Glider PRO**, periodically integrate their house edits into the combined "master".
+As I mentioned earlier, in order to justify **Glider PRO** I asked a few "house authors" that had done really stellar work creating houses with **Glider 4.0** to help me on the house that ultimately shipped with **Glider PRO** (called *Slumberland*). I blocked out a large amount of "level real estate" and Sean, Steve and Ward each took their slice and got busy creating rooms, puzzles, etc. I would periodically update them with a new beta of **Glider PRO**, periodically integrate their house edits into the combined "master".
 
 When it finally started to come together, the kind folks at Casady & Greene began to also beta-test and try to navigate through "Slumberland". And true to the original concept, players would fly out of the first house, fly into a second, travel for a good deal through the sewers beneath the ground, travel across fields ...
 
